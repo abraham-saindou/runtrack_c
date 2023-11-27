@@ -1,0 +1,3 @@
+/home/kubun/CLionProjects/runtrack_c/cmake-build-debug/CMakeFiles/runtrack_c.dir
+/home/kubun/CLionProjects/runtrack_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kubun/CLionProjects/runtrack_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

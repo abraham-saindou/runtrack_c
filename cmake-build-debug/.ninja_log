@@ -1,0 +1,9 @@
+# ninja log v5
+15	34	1701099728465947275	runtrack_c	bbd1f43c3d2334f6
+0	15	1701099728445947581	CMakeFiles/runtrack_c.dir/main.c.o	d927aa807ded9f3b
+0	8	1701099888147613757	build.ninja	3402f11fda14e781
+0	13	1701090401729889048	CMakeFiles/runtrack_c.dir/jour01/job02/my_strlen.c.o	e5982654e4b65c2e
+0	15	1701090094161339745	CMakeFiles/runtrack_c.dir/jour01/job01/my_putstr.c.o	35705c47b01142d0
+0	15	1701090094161339745	CMakeFiles/runtrack_c.dir/jour01/job01/my_putchar.c.o	1f698ba738f09887
+0	14	1701099013721029281	CMakeFiles/runtrack_c.dir/jour01/job03/char_digit.c.o	706c478d73fba0e2
+0	9	1701099888147613757	build.ninja	3402f11fda14e781
