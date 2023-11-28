@@ -15,7 +15,8 @@ char *my_strcpy(char *dest, const char *src){
         dest[i] = src[i];
         ++i;
     }
-    printf("%s",dest);
+    dest[i] = 0;
+
 
     return dest;
 }

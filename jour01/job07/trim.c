@@ -27,4 +27,3 @@ char *trim(char *src){
 
     return trimmed;
 }
-}

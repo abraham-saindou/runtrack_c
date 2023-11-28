@@ -1,8 +1,26 @@
 //
-// Created by kubun on 27/11/23.
+// Created by kubun on 28/11/23.
 //
 
 #include "stdlib.h"
+#include "stdio.h"
+
+char **array_clone(char **strs, int n){
+
+    int len = 0; int i = 0;
+    char **clones;
+
+    while(strs[len] != 0){
+         len++;
+     }
+    while (i < len){
+        clones[i] = strs[i];
+        ++i;
+    }
+    printf("%s", *clones);
+
+    return clones;
+}
 
 char *my_strcpy(char *dest, const char *src){
     int len = 0, i = 0;
@@ -15,8 +33,7 @@ char *my_strcpy(char *dest, const char *src){
         dest[i] = src[i];
         ++i;
     }
-    dest[i] = 0;
-
+    printf("%s",dest);
 
     return dest;
 }
