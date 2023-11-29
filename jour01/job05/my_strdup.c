@@ -22,7 +22,7 @@ char *my_strcpy(char *dest, const char *src){
 }
 
 char *my_strdup(char *src){
-    int len = 0, i = 0;
+    int len = 0;
 
     while (src[len] != 0){
         ++len;

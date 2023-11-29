@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_runtrack_c: phony || CMakeFiles/runtrack
 
 build CMakeFiles/runtrack_c.dir/main.c.o: C_COMPILER__runtrack_c_unscanned_Debug /home/kubun/CLionProjects/runtrack_c/main.c || cmake_object_order_depends_target_runtrack_c
   DEP_FILE = CMakeFiles/runtrack_c.dir/main.c.o.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -Werror
   OBJECT_DIR = CMakeFiles/runtrack_c.dir
   OBJECT_FILE_DIR = CMakeFiles/runtrack_c.dir
 
