@@ -4,6 +4,7 @@ project(runtrack_c C)
 set(CMAKE_C_STANDARD 17)
 
 add_executable(runtrack_c main.c
+        jour04/job01/manhattan.c
 
 )
 target_compile_options(${PROJECT_NAME} PRIVATE

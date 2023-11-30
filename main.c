@@ -9,8 +9,6 @@ int my_atoi(char *str){
     while(str[i] != 0){
 
     }
-
-
 }
 
 

@@ -55,6 +55,12 @@ build CMakeFiles/runtrack_c.dir/main.c.o: C_COMPILER__runtrack_c_unscanned_Debug
   OBJECT_DIR = CMakeFiles/runtrack_c.dir
   OBJECT_FILE_DIR = CMakeFiles/runtrack_c.dir
 
+build CMakeFiles/runtrack_c.dir/jour04/job01/manhattan.c.o: C_COMPILER__runtrack_c_unscanned_Debug /home/kubun/CLionProjects/runtrack_c/jour04/job01/manhattan.c || cmake_object_order_depends_target_runtrack_c
+  DEP_FILE = CMakeFiles/runtrack_c.dir/jour04/job01/manhattan.c.o.d
+  FLAGS = -g -fdiagnostics-color=always -Wall -Wextra -Werror
+  OBJECT_DIR = CMakeFiles/runtrack_c.dir
+  OBJECT_FILE_DIR = CMakeFiles/runtrack_c.dir/jour04/job01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target runtrack_c
@@ -63,7 +69,7 @@ build CMakeFiles/runtrack_c.dir/main.c.o: C_COMPILER__runtrack_c_unscanned_Debug
 #############################################
 # Link the executable runtrack_c
 
-build runtrack_c: C_EXECUTABLE_LINKER__runtrack_c_Debug CMakeFiles/runtrack_c.dir/main.c.o
+build runtrack_c: C_EXECUTABLE_LINKER__runtrack_c_Debug CMakeFiles/runtrack_c.dir/main.c.o CMakeFiles/runtrack_c.dir/jour04/job01/manhattan.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/runtrack_c.dir
   POST_BUILD = :
