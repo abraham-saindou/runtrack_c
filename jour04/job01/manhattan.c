@@ -6,12 +6,4 @@
 #include "manhattan.h"
 
 
-point a;
-
-
-point b;
-
-manhattan(a, b){
-
-}
 

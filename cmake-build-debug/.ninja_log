@@ -1,8 +1,19 @@
 # ninja log v5
 21	32	1701270840705515042	runtrack_c	bbd1f43c3d2334f6
 1	21	1701270840689515249	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
-0	8	1701349634264631462	build.ninja	3402f11fda14e781
-0	13	1701090401729889048	CMakeFiles/runtrack_c.dir/jour01/job02/my_strlen.c.o	e5982654e4b65c2e
-0	15	1701090094161339745	CMakeFiles/runtrack_c.dir/jour01/job01/my_putstr.c.o	35705c47b01142d0
-0	15	1701090094161339745	CMakeFiles/runtrack_c.dir/jour01/job01/my_putchar.c.o	1f698ba738f09887
-0	14	1701099013721029281	CMakeFiles/runtrack_c.dir/jour01/job03/char_digit.c.o	706c478d73fba0e2
+0	8	1701974745554388252	build.ninja	3402f11fda14e781
+0	9	1701978451680186983	CMakeFiles/runtrack_c.dir/jour04/job01/manhattan.c.o	7039c9defa4eca6
+0	17	1701978473051462267	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+17	29	1701978473063461865	runtrack_c	71ac49dd23f58a8c
+0	17	1701978481843169491	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+17	29	1701978481855169094	runtrack_c	71ac49dd23f58a8c
+0	17	1701978489250925166	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+17	29	1701978489262924772	runtrack_c	71ac49dd23f58a8c
+0	20	1701978525437761690	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+20	32	1701978525449761312	runtrack_c	71ac49dd23f58a8c
+0	18	1701978542137240938	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+18	29	1701978542145240691	runtrack_c	71ac49dd23f58a8c
+1	18	1701978549101026683	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+18	30	1701978549113026315	runtrack_c	71ac49dd23f58a8c
+1	18	1701978553776883765	CMakeFiles/runtrack_c.dir/main.c.o	5b6bbd9051e58b8b
+18	30	1701978553788883398	runtrack_c	71ac49dd23f58a8c
